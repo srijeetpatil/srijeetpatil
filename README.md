@@ -1,5 +1,6 @@
 I am Currently working on:
-Full Stack Web Development,
+React js,
+Next js,
 React Native App Development,
 Node js,
 
