@@ -1,9 +1,4 @@
-I am Currently working on:
-React js,
-Next js,
-React Native App Development,
-Node js and
-Mongodb
+<3 Typescript, Javascript, Java, React, Next, React Native, Node, MongoDB <3
 
 
 
